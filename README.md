@@ -1,1 +1,1 @@
-# School-Projects---MS-in-Analytics
+# School Projects
